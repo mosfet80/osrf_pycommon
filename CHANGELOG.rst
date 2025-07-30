@@ -2,8 +2,8 @@
 Changelog for package osrf_pycommon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.7 (2025-07-30)
+------------------
 * Fix setuptools deprecations (`#105 <https://github.com/osrf/osrf_pycommon/issues/105>`_)
 * Contributors: mosfet80
 
