@@ -9,7 +9,7 @@ jobs:
     build:
       strategy:
         matrix:
-          os: [macos-latest, ubuntu-22.04, windows-latest]
+          os: [macos-latest, ubuntu-latest, windows-latest]
           python: ['3.10', '3.11', '3.12', '3.13']
       name: osrf_pycommon tests
       runs-on: ${{matrix.os}}
